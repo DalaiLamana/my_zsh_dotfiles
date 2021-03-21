@@ -1,7 +1,10 @@
 # my_zsh_dotfiles
 
 It uses powerlevel9:
+
 https://github.com/Powerlevel9k/powerlevel9k
+
+
 And some zsh plugins
 
 https://github.com/zsh-users
